@@ -2,7 +2,7 @@
 <h1 align="center"> C# Programming Basics - May 2024 <h1>
 
 <p align="center">
-  <a href="https://softuni.bg/trainings/3869/programming-basics-with-javascript-september-2022">
+  <a href="https://softuni.bg/trainings/4578/programming-basics-with-csharp-may-2024#lesson-71892">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHVQmS_j5EnS20QAwcCz9J0rHoFz_oQgUdQ&s" />
   </a>
 <p>
